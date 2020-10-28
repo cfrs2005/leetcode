@@ -1,0 +1,5 @@
+.idea
+dev.php
+Temp/*
+Log/*
+.DS_Store
