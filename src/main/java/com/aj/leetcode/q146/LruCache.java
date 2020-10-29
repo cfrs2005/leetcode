@@ -7,13 +7,12 @@ import java.util.Map;
  * @author zhangqingyue
  * @date 2020/10/28
  */
-public class LRUCache extends LinkedHashMap<Integer, Integer> {
+public class LruCache extends LinkedHashMap<Integer, Integer> {
     private int capacity;
 
-    public LRUCache(int capacity) {
+    public LruCache(int capacity) {
         super(capacity, 0.75F, true);
         this.capacity = capacity;
-
     }
 
     public int get(int key) {
