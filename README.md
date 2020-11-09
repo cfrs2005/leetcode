@@ -8,12 +8,15 @@ learn leetcode with java.
 |编号|代码|描述|
 |:---|:---|:----|
 |[7](https://leetcode-cn.com/problems/reverse-integer/)|[reverse-integer](src/main/java/com/aj/leetcode/q7)|整数反转|
-|[13](https://leetcode-cn.com/problems/roman-to-integer/)|[roman-to-integer](src/main/java/com/aj/leetcode/q13)|马数字转整数|
+|[13](https://leetcode-cn.com/problems/roman-to-integer/)|[roman-to-integer](src/main/java/com/aj/leetcode/q13)|罗马数字转整数|
+|37|37|解数独
 |38|[q38](src/main/java/com/aj/leetcode/q38)
-|52|[q52](src/main/java/com/aj/leetcode/q52)
+|52|[q52](src/main/java/com/aj/leetcode/q52)|N皇后 II
 |53|[q53](src/main/java/com/aj/leetcode/q53)
 |57|[q57](src/main/java/com/aj/leetcode/q57)
 |58|[q58](src/main/java/com/aj/leetcode/q58)
+|72|72|编辑距离|
+|123|123| 买卖股票的最佳时机 III|
 |[125](https://leetcode-cn.com/problems/valid-palindrome/)|[valid-palindrome](src/main/java/com/aj/leetcode/q125)|验证回文 |
 |127|[q127](src/main/java/com/aj/leetcode/q127)
 |146|[q146](src/main/java/com/aj/leetcode/q146)
