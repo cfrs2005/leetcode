@@ -1,16 +1,14 @@
-[TOC]
+# LEET-CODE
 
-# leetcode-java 
-
-learn leetcode .
+learn leetcode with java.
 
 
-# cat log
+# CatLog
 
 |编号|代码|描述|
 |:---|:---|:----|
-|7|[q7](src/main/java/com/aj/leetcode/q7)
-|13|[q13](src/main/java/com/aj/leetcode/q13)
+|[7](https://leetcode-cn.com/problems/reverse-integer/)|[reverse-integer](src/main/java/com/aj/leetcode/q7)|整数反转|
+|[13](https://leetcode-cn.com/problems/roman-to-integer/)|[roman-to-integer](src/main/java/com/aj/leetcode/q13)|马数字转整数|
 |38|[q38](src/main/java/com/aj/leetcode/q38)
 |52|[q52](src/main/java/com/aj/leetcode/q52)
 |53|[q53](src/main/java/com/aj/leetcode/q53)
@@ -23,6 +21,6 @@ learn leetcode .
 |349|[q349](src/main/java/com/aj/leetcode/q349)
 |463|[q463](src/main/java/com/aj/leetcode/q463)
 |941|[q941](src/main/java/com/aj/leetcode/q941)
-|973|[q973](src/main/java/com/aj/leetcode/q973)
+|[973](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|[k-closest-points-to-origin](src/main/java/com/aj/leetcode/q973)|最接近原点的 K 个点
 |1114|[114](src/main/java/com/aj/leetcode/q1114)|
 |1356|[q1356](src/main/java/com/aj/leetcode/q1356)
