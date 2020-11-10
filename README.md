@@ -4,9 +4,9 @@
 
 #剑指offer
 
-|类型|题目|代码|
-|:----|:----|:----
-|数组和字符串| 04. 二维数组中的查找
+|类型|题目|代码|描述
+|:----|:----|:----|:----|
+|数组和字符串|[4](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/submissions/)|[er-wei-shu-zu-zhong-de-cha-zhao-lcof](src/main/java/com/aj/leetcode/q4)| 二维数组中的查找
 |数组和字符串| 05. 替换空格
 |数组和字符串| 11. 旋转数组的最小数字
 |数组和字符串| 17. 打印从 1 到最大的 n 位数
@@ -58,6 +58,7 @@
 
 |编号|代码|描述|
 |:---|:---|:----|
+|[4](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/submissions/)|[er-wei-shu-zu-zhong-de-cha-zhao-lcof](src/main/java/com/aj/leetcode/q4)| 二维数组中的查找
 |[7](https://leetcode-cn.com/problems/reverse-integer/)|[reverse-integer](src/main/java/com/aj/leetcode/q7)|整数反转|
 |[13](https://leetcode-cn.com/problems/roman-to-integer/)|[roman-to-integer](src/main/java/com/aj/leetcode/q13)|罗马数字转整数|
 |37|37|解数独
