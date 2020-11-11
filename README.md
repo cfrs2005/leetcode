@@ -6,9 +6,9 @@
 
 |类型|题目|代码|描述
 |:----|:----|:----|:----|
-|数组和字符串|[4](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/submissions/)|[er-wei-shu-zu-zhong-de-cha-zhao-lcof](src/main/java/com/aj/leetcode/q4)| 二维数组中的查找
-|数组和字符串| 05. 替换空格
-|数组和字符串| 11. 旋转数组的最小数字
+|数组和字符串|[04](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/submissions/)|[er-wei-shu-zu-zhong-de-cha-zhao-lcof](src/main/java/com/aj/leetcode/q4)| 二维数组中的查找
+|数组和字符串| [05](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)| [ti-huan-kong-ge-lcof](src/com.aj.leetcodeoffer/q05)
+|数组和字符串| 11. 旋转数组的最小数
 |数组和字符串| 17. 打印从 1 到最大的 n 位数
 |数组和字符串| 21. 调整数组顺序使奇数位于偶数前面
 |数组和字符串| 29. 顺时针打印矩阵
@@ -75,6 +75,7 @@
 |200|[q200](src/main/java/com/aj/leetcode/q200)
 |349|[q349](src/main/java/com/aj/leetcode/q349)
 |463|[q463](src/main/java/com/aj/leetcode/q463)
+|[514](https://leetcode-cn.com/problems/freedom-trail/)|[freedom-trail](src/main/java/com/aj/leetcode/q514)|自由之路
 |941|[q941](src/main/java/com/aj/leetcode/q941)
 |[973](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|[k-closest-points-to-origin](src/main/java/com/aj/leetcode/q973)|最接近原点的 K 个点
 |1114|[114](src/main/java/com/aj/leetcode/q1114)|
