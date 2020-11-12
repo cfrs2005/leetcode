@@ -76,6 +76,7 @@
 |349|[q349](src/main/java/com/aj/leetcode/q349)
 |463|[q463](src/main/java/com/aj/leetcode/q463)
 |[514](https://leetcode-cn.com/problems/freedom-trail/)|[freedom-trail](src/main/java/com/aj/leetcode/q514)|自由之路
+|[922](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[sort-array-by-parity-ii](src/main/java/com/aj/leetcode/q922)|按奇偶排序数组 II
 |941|[q941](src/main/java/com/aj/leetcode/q941)
 |[973](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|[k-closest-points-to-origin](src/main/java/com/aj/leetcode/q973)|最接近原点的 K 个点
 |1114|[114](src/main/java/com/aj/leetcode/q1114)|
