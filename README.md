@@ -73,6 +73,7 @@
 |127|[q127](src/main/java/com/aj/leetcode/q127)
 |146|[q146](src/main/java/com/aj/leetcode/q146)
 |200|[q200](src/main/java/com/aj/leetcode/q200)
+|[328](https://leetcode-cn.com/problems/odd-even-linked-list/)|[odd-even-linked-list](src/main/java/com/aj/leetcode/q328)|奇偶链表
 |349|[q349](src/main/java/com/aj/leetcode/q349)
 |463|[q463](src/main/java/com/aj/leetcode/q463)
 |[514](https://leetcode-cn.com/problems/freedom-trail/)|[freedom-trail](src/main/java/com/aj/leetcode/q514)|自由之路
