@@ -81,4 +81,5 @@
 |941|[q941](src/main/java/com/aj/leetcode/q941)
 |[973](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|[k-closest-points-to-origin](src/main/java/com/aj/leetcode/q973)|最接近原点的 K 个点
 |1114|[114](src/main/java/com/aj/leetcode/q1114)|
+|[1112](https://leetcode-cn.com/problems/relative-sort-array/)|[relative-sort-array](src/main/java/com/aj/leetcode/q973)|数组的相对排序
 |1356|[q1356](src/main/java/com/aj/leetcode/q1356)
