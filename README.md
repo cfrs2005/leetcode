@@ -75,6 +75,7 @@
 |200|[q200](src/main/java/com/aj/leetcode/q200)
 |[328](https://leetcode-cn.com/problems/odd-even-linked-list/)|[odd-even-linked-list](src/main/java/com/aj/leetcode/q328)|奇偶链表
 |349|[q349](src/main/java/com/aj/leetcode/q349)
+|[406](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|[queue-reconstruction-by-height](src/main/java/com/aj/leetcode/q406)|根据身高重建队列
 |463|[q463](src/main/java/com/aj/leetcode/q463)
 |[514](https://leetcode-cn.com/problems/freedom-trail/)|[freedom-trail](src/main/java/com/aj/leetcode/q514)|自由之路
 |[922](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[sort-array-by-parity-ii](src/main/java/com/aj/leetcode/q922)|按奇偶排序数组 II
