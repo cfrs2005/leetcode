@@ -8,7 +8,7 @@
 |:----|:----|:----|:----|
 |数组和字符串|[04](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/submissions/)|[er-wei-shu-zu-zhong-de-cha-zhao-lcof](src/main/java/com/aj/leetcode/q4)| 二维数组中的查找
 |数组和字符串|[05](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)| [ti-huan-kong-ge-lcof](src/com.aj.leetcodeoffer/q05)|空字符串替换
-|数组和字符串| 11. 旋转数组的最小数
+|数组和字符串|[11](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)|[xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof](src/com.aj.leetcodeoffer/q11)| 旋转数组的最小数
 |数组和字符串| 17. 打印从 1 到最大的 n 位数
 |数组和字符串| 21. 调整数组顺序使奇数位于偶数前面
 |数组和字符串| 29. 顺时针打印矩阵
