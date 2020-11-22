@@ -74,6 +74,7 @@
 |[134](https://leetcode-cn.com/problems/gas-station/)|[gas-station](src/main/java/com/aj/leetcode/q134)|加油站
 |146|[q146](src/main/java/com/aj/leetcode/q146)
 |200|[q200](src/main/java/com/aj/leetcode/q200)
+|242|[q200](src/main/java/com/aj/leetcode/q242)
 |283|[q283](src/main/java/com/aj/leetcode/q283)
 |[328](https://leetcode-cn.com/problems/odd-even-linked-list/)|[odd-even-linked-list](src/main/java/com/aj/leetcode/q328)|奇偶链表
 |349|[q349](src/main/java/com/aj/leetcode/q349)
