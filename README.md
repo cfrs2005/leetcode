@@ -79,6 +79,7 @@
 |[328](https://leetcode-cn.com/problems/odd-even-linked-list/)|[odd-even-linked-list](src/main/java/com/aj/leetcode/q328)|奇偶链表
 |349|[q349](src/main/java/com/aj/leetcode/q349)
 |[406](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|[queue-reconstruction-by-height](src/main/java/com/aj/leetcode/q406)|根据身高重建队列
+|[452](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[minimum-number-of-arrows-to-burst-balloons](src/main/java/com/aj/leetcode/q452)|用最少数量的箭引爆气球
 |463|[q463](src/main/java/com/aj/leetcode/q463)
 |[514](https://leetcode-cn.com/problems/freedom-trail/)|[freedom-trail](src/main/java/com/aj/leetcode/q514)|自由之路
 |867|[q867](src/main/java/com/aj/leetcode/q867)
