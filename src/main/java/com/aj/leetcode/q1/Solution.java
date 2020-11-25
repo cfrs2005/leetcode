@@ -13,7 +13,7 @@ public class Solution {
         for (int i = 0; i < nums.length; i++) {
             int result = target - nums[i];
             if (map.containsKey(result)) {
-                return new int[]{map.get(i), i};
+                return new int[]{map.get(result), i};
             }
             map.put(nums[i], i);
         }
